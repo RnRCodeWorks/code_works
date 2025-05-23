@@ -1,4 +1,5 @@
-#React Practice App
+# React Practice App
+
 This was a simple idea I had to practice working on my React skills.
 
 # Getting Started with Create React App
