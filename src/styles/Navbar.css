@@ -1,0 +1,29 @@
+#Navbar {
+    background: #1e262d;
+    display: flex;
+    justify-content: space-between;
+    color: white;
+    font-variant: small-caps;
+}
+#logo {
+    width:fit-content;
+}
+
+nav {
+    width:25%;
+    align-content: space-around;
+}
+nav > ul {
+    display: flex;
+    justify-content: space-between;
+    list-style-type: none;
+    height: 100%;
+    margin:0;
+}
+nav > ul li {
+    margin-right:10px;
+    width:200px;
+    text-align: center;
+    align-content: center;
+    height: 100%;
+}
