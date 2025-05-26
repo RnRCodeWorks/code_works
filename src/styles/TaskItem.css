@@ -1,0 +1,10 @@
+.taskBox {
+    display: flex;
+    background-color: steelblue;
+    border: solid 1px;
+    border-radius: 10px;
+    margin: 10px;
+    h3 {
+        margin:10px;
+    }
+}
