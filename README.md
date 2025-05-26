@@ -1,3 +1,7 @@
+# React Practice App
+
+This was a simple idea I had to practice working on my React skills.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
