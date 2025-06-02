@@ -1,12 +1,12 @@
 import React from "react";
 import '../styles/TaskItem.css';
 
-function TaskItem() {
+function TaskItem(props) {
     // Need checkbox, title, description
     return (
         <div className="taskBox">
-            <h3>Title</h3>
-            <p>description</p>
+            <h3>{props.title}</h3>
+            <p>{props.description}</p>
         </div>
     );
 }
