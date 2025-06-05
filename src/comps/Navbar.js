@@ -8,7 +8,6 @@ function Navbar(props){
             <nav>
                 <ul>
                     <li>Main</li>
-                    <li onClick={props.addItemOnClick}>Add Item</li>
                 </ul>
             </nav>
         </div>

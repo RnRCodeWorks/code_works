@@ -12,4 +12,7 @@ code {
     monospace;
 }
 
+.tasklist {
+  display: flex;
+}
 
